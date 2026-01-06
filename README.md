@@ -4,15 +4,7 @@
 
 ###
 
-<div align="center">
-
-# Luigi Stig Estevez Ortiz  
-## 🛡️ Systems Engineering Student | Cybersecurity Enthusiast | Networks & Telecommunications | Software Development & Design | Problem Solver | Python | Java | MongoDB | Linux | GitHub
-
-🟦🟢 *Securing systems · Exploiting vulnerabilities · Building solutions* 🟢🟦
-
-</div>
-
+<p align="left">Hello World!!</p>
 
 ###
 
