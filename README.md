@@ -6,8 +6,8 @@
 
 <div align="center">
 
-# 👨‍💻 Luigi Stig Estevez Ortiz  
-## 🛡️ Cybersecurity | Software Developer | OWASP Top 10
+# Luigi Stig Estevez Ortiz  
+## 🛡️ Systems Engineering Student | Cybersecurity Enthusiast | Networks & Telecommunications | Software Development & Design | Problem Solver | Python | Java | MongoDB | Linux | GitHub
 
 🟦🟢 *Securing systems · Exploiting vulnerabilities · Building solutions* 🟢🟦
 
